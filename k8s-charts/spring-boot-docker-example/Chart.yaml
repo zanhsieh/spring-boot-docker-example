@@ -1,0 +1,5 @@
+name: spring-boot-docker-example
+apiVersion: v1
+description: A Spring-boot-docker-example Helm chart for Kubernetes
+version: 0.1.0
+engine: gotpl
